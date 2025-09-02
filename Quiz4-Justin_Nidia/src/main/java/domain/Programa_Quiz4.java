@@ -12,9 +12,9 @@ public class Programa_Quiz4 {
         int numero = sc.nextInt();
 
         if (numero % 2 == 0) {
-            System.out.println("El número " + numero + " es PAR.");
+            System.out.println("Este número " + numero + " es PAR.");
         } else {
-            System.out.println("El número " + numero + " es IMPAR.");
+            System.out.println("Este número " + numero + " es IMPAR.");
         }
     }
 }
