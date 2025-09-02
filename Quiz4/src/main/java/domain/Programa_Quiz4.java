@@ -8,7 +8,7 @@ public class Programa_Quiz4 {
     public void verificarParImpar() {
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Digite un número: ");
+        System.out.print("Digite un número #: ");
         int numero = sc.nextInt();
 
         if (numero % 2 == 0) {
