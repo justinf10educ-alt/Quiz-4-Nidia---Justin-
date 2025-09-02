@@ -22,7 +22,7 @@ public class Quiz4_Operaciones {
 
 	    for (int i=0 ; i < 3 ; i++){
 
-			numero1 = Integer.parseInt(JOptionPane.showInputDialog("Digite el primer número: "));
+			numero1 = Integer.parseInt(JOptionPane.showInputDialog("Digite el primer número Justin: "));
 	        numero2 = Integer.parseInt(JOptionPane.showInputDialog("Digite el segundo número: "));
 
 			if (numero1 > numero2){
